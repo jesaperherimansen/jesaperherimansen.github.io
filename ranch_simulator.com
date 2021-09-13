@@ -9,7 +9,7 @@
       "version": 1,
       "newAppLink": "",
       
-      "video": "",
+      "video": "https://drive.google.com/uc?id=1lFvf-CZD0W73rSLRNHw2xuNl6Tm5Z4oG",
       "privacy": "https://jesaperherimansen.github.io/privacy.html",
       
       "spancount": 1,
